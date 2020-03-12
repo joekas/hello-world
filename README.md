@@ -1,3 +1,3 @@
 # hello-world
 learning git
-Learning Git and going throgh the tutorial.
+Learning Git and going through the tutorial.
